@@ -1,0 +1,8 @@
+*.log
+*.json
+*.zip
+*.model
+*.h5
+*.npy
+.venv
+.ipynb_checkpoints

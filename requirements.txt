@@ -1,0 +1,10 @@
+numpy
+tensorflow==2.12.*
+scikit-learn
+matplotlib
+pandas
+tqdm
+nltk
+gensim
+hyperas
+notebook
