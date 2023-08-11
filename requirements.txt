@@ -5,6 +5,5 @@ matplotlib
 scikit-learn
 tensorflow==2.12.*
 gensim
-hyperas
 notebook
 ipython
