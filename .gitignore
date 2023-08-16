@@ -7,3 +7,5 @@
 *.py
 .venv
 .ipynb_checkpoints
+*.txt
+*.xlsx
